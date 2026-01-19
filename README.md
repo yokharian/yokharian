@@ -1,10 +1,11 @@
-### ♥ I care about learning the fundamentals
+<img src="./image_low.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
-This is my honest percentage of knowledge for each tool according to roadmap.sh [_click for more details_](https://roadmap.sh/u/yokharian).
+-   :video_game: I am open to **Full-Time** Opportunities as a **Backend**, **Cloud** or **AI Engineer**
+-   :monocle_face: Interested in everything **Cloud Native**
+-   :seedling: Currently learning **AI Engineering**
+-   :heart: AI and Serverless technologies
+-   :floppy_disk: **AWS certified database specialist** ... Data modeling, operations and optimization for relational and non-relational engines.
 
-| [AI Roadmaps](https://roadmap.sh/ai-agents) | [Cloud-first software](https://roadmap.sh/aws) |
-|----------|----------|
-| [![roadmap.sh](https://roadmap.sh/card/tall/64ffbe545ce9f4ca58b6728b?variant=dark&roadmaps=python%2Cai-agents%2Cprompt-engineering%2Cai-engineer)](https://roadmap.sh/u/yokharian) <br> | [![roadmap.sh](https://roadmap.sh/card/tall/64ffbe545ce9f4ca58b6728b?variant=dark&roadmaps=javascript%2Caws-best-practices%2Csql%2Cdocker)](https://roadmap.sh/u/yokharian) <br> |
 
 ### 🌱 Read my blog posts
 
