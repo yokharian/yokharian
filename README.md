@@ -11,4 +11,4 @@
 
 | How I automated invoice extraction | How I extract analytics from Google |
 |----------|----------|
-| [![invoice-extraction-automation](https://www.sofia.escobedo.mx/assets/images/invoice-extraction.webp)](https://www.sofia.escobedo.mx/en/blog/invoice-extraction-automation)  <br> | [![google-analytics-data-extractor](https://www.sofia.escobedo.mx/assets/images/google-analytics.webp)](https://www.sofia.escobedo.mx/en/blog/google-analytics-data-extractor) <br> |
+| [![invoice-extraction-automation](https://yokharian.dev/assets/img/2025/invoice-extraction.webp)](https://yokharian.dev/posts/invoice-extraction-automation)  <br> | [![google-analytics-data-extractor](https://yokharian.dev/assets/img/2025/google-analytics.webp)](https://yokharian.dev/posts/google-analytics-data-extractor) <br> |
