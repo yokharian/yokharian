@@ -11,6 +11,7 @@
 
 ## Professional Experience
 
+- 🤖 **[AI Sales Agent](https://github.com/yokharian/AI-Sales-Agent)** - WhatsApp vehicle search assistant agent powered by RAG
 - 🔄 **[Clerk DynamoDB Sync](https://github.com/yokharian/clerk-dynamodb-sync)** - Webhook-driven user data sync into DynamoDB with Clerk auth
 - 🔐 **[MFA Git Access CLI](https://github.com/yokharian/mfa-git-access-cli)** - Ephemeral MFA access AWS GIT repos
 - 🌀 **[AWS Apache Airflow](https://github.com/yokharian/cdk-apache-airflow)** - Deploy and manage Airflow Servers on AWS
