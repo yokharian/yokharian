@@ -21,6 +21,10 @@
 - 🧾 **[Invoice Extraction Service](https://github.com/yokharian/invoice-extraction-service)** - Invoice data extraction from [SAT.WS](https://sat.ws)
 - 💬 **[Fake Discord Messages](https://github.com/yokharian/fake-discord-messages)** - Generate fake Discord chat screenshots
 
+## Legacy Projects
+
+- 🧠 **[AIBoilerplate](https://github.com/yokharian/AIBoilerplate)** - One source of truth for 19+ AI coding assistants
+
 ---
 ### 🌱 Read my blog posts
 
