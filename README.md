@@ -19,11 +19,12 @@
 - ⚡ **[Electricity Cost Analytics](https://github.com/yokharian/electricity-cost-analytics)** - REST API microservices for electricity cost analysis
 - 📊 **[Google Analytics Extractor](https://github.com/yokharian/google-analytics-extractor)** - Google Analytics v3 + v4 data extractor
 - 🧾 **[Invoice Extraction Service](https://github.com/yokharian/invoice-extraction-service)** - Invoice data extraction from [SAT.WS](https://sat.ws)
-- 💬 **[Fake Discord Messages](https://github.com/yokharian/fake-discord-messages)** - Generate fake Discord chat screenshots
+
 
 ## Legacy Projects
 
 - 🧠 **[AIBoilerplate](https://github.com/yokharian/AIBoilerplate)** - One source of truth for 19+ AI coding assistants
+- 💬 **[Fake Discord Messages](https://github.com/yokharian/fake-discord-messages)** - Generate fake Discord chat screenshots
 
 ---
 ### 🌱 Read my blog posts
