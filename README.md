@@ -25,6 +25,7 @@
 
 - 🧠 **[AIBoilerplate](https://github.com/yokharian/AIBoilerplate)** - One source of truth for 19+ AI coding assistants
 - 💬 **[Fake Discord Messages](https://github.com/yokharian/fake-discord-messages)** - Generate fake Discord chat screenshots
+- 🤖 **[Neobot](https://github.com/yokharian/neobot)** - Custom Discord bot built with discord.py, hosted on Heroku
 
 ---
 ### 🌱 Read my blog posts
